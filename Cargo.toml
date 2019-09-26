@@ -1,0 +1,8 @@
+[package]
+name = "libmilter-rs"
+version = "0.1.0"
+authors = ["Matt <9059517+56KBs@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+libmilter-sys = { path = "../libmilter-sys", version = "0.1.0" }
